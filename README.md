@@ -1,5 +1,3 @@
-![linickx's GitHub avatar](https://avatars.githubusercontent.com/linickx)
-
 # Hi, I'm linickx 👋
 
 **Senior Cyber Security Professional**  
