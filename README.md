@@ -1,16 +1,33 @@
-## Hi there 👋
+![linickx's GitHub avatar](https://avatars.githubusercontent.com/linickx)
 
-<!--
-**linickx/linickx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm linickx 👋
 
-Here are some ideas to get you started:
+**Senior Cyber Security Professional**  
+🔒 Specializing in Security, Python, and Shell Scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- Full-time nerd and technology enthusiast
+- Always tinkering, learning, and securing things
+- Occasional trail runner 🏃‍♂️
+
+---
+
+### 🛠️ Top Skills
+- **Security**
+- **Python**
+- **Shell Scripting**
+
+---
+
+### 🌐 Find Me Online
+
+- 🌍 [www.linickx.com](https://www.linickx.com)
+- 🐘 [Mastodon: @linickx@infosec.exchange](https://infosec.exchange/@linickx)
+
+> 💬 Want to connect? Reach out via Mastodon!
+
+---
+
+![linickx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linickx&show_icons=true&theme=dark)
