@@ -1,4 +1,4 @@
-# Hi, I'm linickx 👋
+# Hi, I'm Nick 👋
 
 **Senior Cyber Security Professional**  
 🔒 Specializing in Security, Python, and Shell Scripting
