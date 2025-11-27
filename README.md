@@ -26,6 +26,3 @@
 
 > 💬 Want to connect? Reach out via Mastodon!
 
----
-
-![linickx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linickx&show_icons=true&theme=dark)
